@@ -184,7 +184,6 @@ h1 {
     background-color: var(--white);
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
-
 #favsContainer {
     position: relative;
     width: 100%;
